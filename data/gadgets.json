@@ -1,0 +1,30 @@
+{
+    "gadgets": [
+      {
+        "id": 1,
+        "name": "Lenovo",
+        "price": "$500O",
+      },
+      {
+        "id": 2,
+        "name": "HP",
+        "price": "$700O",
+      },
+      {
+        "id": 3,
+        "name": "Dell",
+        "price": "$300O",
+      },
+      {
+        "id": 4,
+        "name": "Asus",
+        "price": "$1000O",
+      },
+      {
+        "id": 5,
+        "name": "MSI",
+        "price": "$800O",
+      }
+    ]
+  }
+  
